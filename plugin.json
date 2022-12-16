@@ -1,0 +1,14 @@
+{
+	"logo": "logo.png",
+	"preload": "preload.js",
+	"features": [
+		{
+			"code": "excel",
+			"explain": "excel公式大全",
+			"cmds": [
+				"excel",
+				"excel公式"
+			]
+		}
+	]
+}
